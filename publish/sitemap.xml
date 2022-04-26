@@ -14,19 +14,25 @@
     </url>
   
     <url>
+      <loc>https://fernandodelrio.netlify.app/monitor-gamer-lg-29um69g-led-29--preto-100v240v</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://fernandodelrio.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://fernandodelrio.netlify.app/pages/faq</loc>
+      <loc>https://fernandodelrio.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://fernandodelrio.netlify.app/pages/entrega</loc>
+      <loc>https://fernandodelrio.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
